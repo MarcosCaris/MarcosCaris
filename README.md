@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/99969703/181125763-0462801a-5deb-4d0b-9b58-73236698cb47.gif" width="100%">
-<img src="https://s11.gifyu.com/images/banner-github.gif" border="0" width="100%">
+<img src="https://im3.ezgif.com/tmp/ezgif-3-fb64d2a42c.gif" border="0" width="100%">
 <img src="https://user-images.githubusercontent.com/99969703/181125763-0462801a-5deb-4d0b-9b58-73236698cb47.gif" width="100%">
 
 Hi 👋 My name is Marcos Caris
