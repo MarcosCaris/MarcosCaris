@@ -1,6 +1,6 @@
-<img src="https://im.ezgif.com/tmp/ezgif-1-ded2fcabca.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/99969703/181125763-0462801a-5deb-4d0b-9b58-73236698cb47.gif" width="100%">
 <img src="https://i.pinimg.com/originals/20/8f/d7/208fd76468afa91714a3bb6d1c6e39b9.gif" border="0" width="100%">
-<img src="https://im.ezgif.com/tmp/ezgif-1-ded2fcabca.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/99969703/181125763-0462801a-5deb-4d0b-9b58-73236698cb47.gif" width="100%">
 
 Hi 👋 My name is Marcos Caris
 =============================
@@ -18,7 +18,7 @@ Marcos is a student in development, who's goal is to achieve a variety of knolwe
 
 <a href="https://www.twitch.tv/tarkkss" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/tarkkss?logo=twitchsx&style=for-the-badge&color=6366f1&labelColor=0f172a&label=TWITCH+STATUS" /></a>
-<img src="https://im.ezgif.com/tmp/ezgif-1-ded2fcabca.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/99969703/181125763-0462801a-5deb-4d0b-9b58-73236698cb47.gif" width="100%">
 ### Skills
 
 
