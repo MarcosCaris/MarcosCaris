@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/99969703/181125763-0462801a-5deb-4d0b-9b58-73236698cb47.gif" width="100%">
-<img src="https://codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif" width="70%">
+<img align="center" src="https://codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif" width="70%">
 
 Hi 👋 My name is Marcos Caris
 =============================
