@@ -1,3 +1,5 @@
+![MasterHead](https://codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif)
+
 Hi 👋 My name is Marcos Caris
 =============================
 
@@ -35,3 +37,9 @@ src="https://img.shields.io/twitch/status/tarkkss?logo=twitchsx&style=for-the-ba
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Tarkkss#2390" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/MarcosCaris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/marcos_caris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/tarkkss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+
+
+
+
+
