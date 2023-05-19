@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/99969703/181125763-0462801a-5deb-4d0b-9b58-73236698cb47.gif" width="100%">
-<img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif" width="100%">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1756948115632541771/90BEF0E27DDF64766154E12F1FDD462F89849786/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="100%">
 
 Hi 👋 My name is Marcos Caris
 =============================
