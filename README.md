@@ -18,7 +18,7 @@ Marcos is a student in development, who's goal is to achieve a variety of knolwe
 
 <a href="https://www.twitch.tv/tarkkss" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/tarkkss?logo=twitchsx&style=for-the-badge&color=6366f1&labelColor=0f172a&label=TWITCH+STATUS" /></a>
-
+<img src="https://user-images.githubusercontent.com/99969703/181125763-0462801a-5deb-4d0b-9b58-73236698cb47.gif" width="100%">
 ### Skills
 
 
